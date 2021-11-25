@@ -25,3 +25,8 @@ Material and notebooks from the machine learning course
 9) K Means clustering (Partition Based)
 10) Agglomerative clusterign (Hierarchical)
 11) DBSCAN (Density Based)
+
+## Recommendation Systems
+
+12) Content Based
+13) Collaborative Filtering
