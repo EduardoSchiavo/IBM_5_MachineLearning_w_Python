@@ -22,4 +22,6 @@ Material and notebooks from the machine learning course
 
 ### Clustering Models 
 
-9) K Means clustering
+9) K Means clustering (Partition Based)
+10) Agglomerative clusterign (Hierarchical)
+11) DBSCAN (Density Based)
