@@ -1,6 +1,6 @@
 # Machine Learning with Python
 
-Material and notebooks from the machine learning course. The notebooks are in the directories [Regression] , Classification
+Material and notebooks from the machine learning course. The notebooks are in the directories [Regression](Regression/)  , Classification
 
 ## Supervised ML
 
