@@ -13,13 +13,13 @@ Material and notebooks from the machine learning course
 
 ### Classification Models 
 
-3) K Nearest Neighbours
-4) Logistic Regression
-5) Decision Trees
-6) Support Vector Machine
+5) K Nearest Neighbours
+6) Logistic Regression
+7) Decision Trees
+8) Support Vector Machine
 
 ## Unsupervised ML
 
 ### Clustering Models 
 
-6) K Means clustering
+9) K Means clustering
