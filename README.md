@@ -6,7 +6,7 @@ The jupyter notebooks are in the directories [Regression](Regression/)  , [Class
 
 The [Data](Data/) directory contains a bunch of .csv and other auxiliary files used in the notebooks. All such files should be generated/downloaded running the notebooks. In principle, you should never need to access the files in this directory, but they're here just in case..
 
-The [FinalAssignmentNotebook](Final ML Assignment.ipynb) contains a final example of classification applied to the predicion of Loan Payments. 
+The [FinalAssignmentNotebook](/Final ML Assignment.ipynb) contains a final example of classification applied to the predicion of Loan Payments. 
 
 ## Supervised ML
 
